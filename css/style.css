@@ -1,0 +1,16 @@
+body {
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+body {
+  background-color: lightgreen;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
